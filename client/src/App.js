@@ -9,6 +9,7 @@ function App() {
        <BrowserRouter>
             <Routes>
                  <Route path = "/" element = {<Dashboard/>} />
+                 <Route path = "/necleo-web" element = {<Dashboard/>} />
             </Routes>
        </BrowserRouter>
     </div>
