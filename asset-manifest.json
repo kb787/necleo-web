@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9516d362.css",
-    "main.js": "/static/js/main.23a37875.js",
-    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
-    "static/media/image.png": "/static/media/image.b05ad1264ea0d2ed96e2.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.9516d362.css.map": "/static/css/main.9516d362.css.map",
-    "main.23a37875.js.map": "/static/js/main.23a37875.js.map",
-    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+    "main.css": "/necleo-web/static/css/main.9516d362.css",
+    "main.js": "/necleo-web/static/js/main.30f62ac9.js",
+    "static/js/787.d5fa4d18.chunk.js": "/necleo-web/static/js/787.d5fa4d18.chunk.js",
+    "static/media/image.png": "/necleo-web/static/media/image.b05ad1264ea0d2ed96e2.png",
+    "static/media/logo.svg": "/necleo-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/necleo-web/index.html",
+    "main.9516d362.css.map": "/necleo-web/static/css/main.9516d362.css.map",
+    "main.30f62ac9.js.map": "/necleo-web/static/js/main.30f62ac9.js.map",
+    "787.d5fa4d18.chunk.js.map": "/necleo-web/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9516d362.css",
-    "static/js/main.23a37875.js"
+    "static/js/main.30f62ac9.js"
   ]
 }
